@@ -3,7 +3,7 @@
 
 
 
-## React Testing Practices
+## React Testing Library, Tips and Tricks
 
 
  
